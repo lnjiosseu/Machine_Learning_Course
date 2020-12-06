@@ -1,0 +1,9 @@
+"variable","number_of_levels","number_of_fitted_coefficients"
+"age",4,3
+"education",4,3
+"ideology",3,2
+"party",3,2
+"race",4,3
+"sex",2,1
+"state",49,48
+"state_contestedness",4,0
